@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Getting Started with Create React App UPDTED
+## I will read [react js docs completely](https://reactjs.org/docs/getting-started.html)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
